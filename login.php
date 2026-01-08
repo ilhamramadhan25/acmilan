@@ -36,7 +36,7 @@ if(isset($_SESSION['username']))
                     <div class="card-body">
                         <div class="text-center mb-3">
                             <i class="bi bi-person-circle h1 display-4"></i>
-                            <p><h1>AC MILAN</h1></p>
+                            <p><h1>Welcome to AC MILAN</h1></p>
                             <hr />
                         </div>
                         <form action="" method="post" id="loginform">
